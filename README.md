@@ -1,7 +1,6 @@
 
 <p align="center">
  <img width="50px" src="https://media4.giphy.com/media/eLw1b6BOoLoQJNy6PJ/giphy.gif"> 
- <p>Gk</p>
  <img width="50px" src="https://media4.giphy.com/media/eLw1b6BOoLoQJNy6PJ/giphy.gif"> 
  </p>
 
@@ -37,15 +36,13 @@
  
  <img width="60px" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" />
  <img width="60px" src="https://www.freepnglogos.com/uploads/photoshop-png-logo/photoshop-cc-icon-png-logo-2.png"/>
- <img width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Inkscape_Logo.svg/2048px-Inkscape_Logo.svg.png"/>
  <img width="60px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"/>
  <img width="130px" src="https://allprowebdesigns.com/blog/wp-content/uploads/2019/01/1lJ32Bl-lHWmNMUSiSq17gQ-792x445.png"/>
  <img width="60px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/MediBang_Paint_logo.png"/>
- <img width="60px" src="https://seeklogo.com/images/G/git-bash-logo-B6475E8359-seeklogo.com.png"/>
  <img width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1028px-Visual_Studio_Code_1.18_icon.svg.png" />
  <img width="60px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" />
  <img width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png" />
- <img width="60px" src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" />
+ <img width="60px" src="https://www.flaticon.com/free-icons/python"/>
  
  <br>
  <br>
