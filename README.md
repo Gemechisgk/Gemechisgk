@@ -1,7 +1,7 @@
 
 <p align="center">
  <img width="50px" src="https://media4.giphy.com/media/eLw1b6BOoLoQJNy6PJ/giphy.gif"> 
- <p>Gemechisgk</p>
+ <p>Gk</p>
  <img width="50px" src="https://media4.giphy.com/media/eLw1b6BOoLoQJNy6PJ/giphy.gif"> 
  </p>
 
@@ -14,17 +14,17 @@
 
 <br>
 <p align="center">
- <img width="48%" src="https://github-readme-stats.vercel.app/api?username=adrianaluisadc&show_icons=true&theme=radical&count_private=true&custom_title=@gemechisgk "> 
+ <img width="48%" src="https://github-readme-stats.vercel.app/api?username=gemechisgk&show_icons=true&theme=radical&count_private=true&custom_title=@gemechisgk "> 
 
 </p>
 
 <p align="center">
  <img width="200px"src="https://i.dlpng.com/static/png/7039439_preview.png">
- <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianaluisadc&layout=compact&theme=radical&custom_title=Languages" /> 
+ <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gemechisgk&layout=compact&theme=radical&custom_title=Languages" /> 
  <img width="200px"src="https://i.dlpng.com/static/png/7039439_preview.png">
  <br>
  <br>
- <img width="600px"src="https://activity-graph.herokuapp.com/graph?username=adrianaluisadc&theme=redical">
+ <img width="600px"src="https://activity-graph.herokuapp.com/graph?username=gemechisgk&theme=redical">
  
 </p>
 
