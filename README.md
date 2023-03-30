@@ -50,7 +50,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on alx-system-engineering-devops<br>👯 I’m looking to collaborate on Flutter<br>🌱 I’m currently learning React, C, Electronjs <br>📫 How to reach me gemechis.gk@gmail.com <br>👨‍💻 All of my projects are available at https://github.com/Gemechisgk
+🔭 I’m currently working on alx-system-engineering-devops<br>👯 I’m looking to collaborate on React<br>🌱 I’m currently learning React, C, Typescript <br>📫 How to reach me gemechis.gk@gmail.com <br>👨‍💻 All of my projects are available at https://github.com/Gemechisgk
 
 
 ## 🌐 Socials:
