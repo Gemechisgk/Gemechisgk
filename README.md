@@ -19,11 +19,11 @@
 
 <p align="center">
  <img width="200px"src="https://i.dlpng.com/static/png/7039439_preview.png">
- <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gemechisgk&layout=compact&theme=radical&custom_title=Languages" /> 
+ <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gemechisgk&layout=compact&theme=radical&custom_title=Languages" /> 
  <img width="200px"src="https://i.dlpng.com/static/png/7039439_preview.png">
  <br>
  <br>
- <img width="600px"src="https://activity-graph.herokuapp.com/graph?username=gemechisgk&theme=redical">
+ <img width="600px"src="https://activity-graph.herokuapp.com/graph?username=Gemechisgk&theme=redical">
  
 </p>
 
