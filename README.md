@@ -1,6 +1,6 @@
 
 <p align="center">
- <img width="50px" src="https://media4.giphy.com/media/eLw1b6BOoLoQJNy6PJ/giphy.gif"> 
+ <img width="50px" src="https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/86173193901160515972084982170544104041290069541789401707310940591180625215489/"> 
  <img width="50px" src="https://media4.giphy.com/media/eLw1b6BOoLoQJNy6PJ/giphy.gif"> 
  </p>
 
