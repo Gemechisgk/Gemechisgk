@@ -33,7 +33,7 @@
  <img width="60px" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" />
  <img width="60px" src="https://www.freepnglogos.com/uploads/photoshop-png-logo/photoshop-cc-icon-png-logo-2.png"/>
  <img width="60px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"/>
- <img width="130px" src="https://allprowebdesigns.com/blog/wp-content/uploads/2019/01/1lJ32Bl-lHWmNMUSiSq17gQ-792x445.png](https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flutter_logo.svg/64px-Flutter_logo.svg.png?20230821075714))"/>
+ <img width="130px" src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Python_logo_01.svg"/>
  <img width="60px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Odoo_Official_Logo.png"/>
  <img width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1028px-Visual_Studio_Code_1.18_icon.svg.png" />
  <img width="60px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" />
