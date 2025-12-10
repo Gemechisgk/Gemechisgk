@@ -1,31 +1,4 @@
 
-
-
- <p align="center">
-
- <br>
- <br>
- 
-</p>
-
-<br>
-<p align="center">
-
-</p>
-
-<p align="center">
- <img width="200px"src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnVsOXp5MDNhN3k4aXVuazVvMWE4Mzk4emRuOHRsZjlxN2FrMjRlcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PTBVMsYIOB0SBP4MVe/giphy.gif">
- <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gemechisgk&layout=compact&theme=radical&custom_title=Languages" /> 
- <img width="200px"src="https://i.dlpng.com/static/png/7039439_preview.png">
- <br>
- <br>
- <img width="600px"src="https://activity-graph.herokuapp.com/graph?username=Gemechisgk&theme=redical">
- 
-</p>
-
-<br>
-
-<p align="center">
  <b>Tools and Technologies</b>
  <br>
  <br>
