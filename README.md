@@ -124,21 +124,12 @@ Business Process Automation
 
 # 🚀 Featured Projects
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Gemechisgk&repo=portfolio&theme=tokyonight"/>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+<a href="https://github.com/Gemechisgk/llm-using-granite">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gemechisgk&repo=llm-using-granite" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github.com/Gemechisgk/lexical-analysis-with-java">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gemechisgk&repo=lexical-analysis-with-java" />
 </a>
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Gemechisgk&repo=flutter-app&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Gemechisgk&repo=erp-system&theme=tokyonight"/>
-
-</p>
 
 ---
 
