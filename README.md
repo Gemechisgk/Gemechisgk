@@ -41,7 +41,7 @@ Build scalable and intelligent digital platforms
 
 ---
 
-# 🛰 3D Tech Stack (Orbit Simulation)
+# 🛰 Tech Stack (Orbit Simulation)
 
 <p align="center">
 
@@ -127,6 +127,12 @@ Business Process Automation
 <p align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gemechisgk&repo=portfolio&theme=tokyonight"/>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gemechisgk&repo=flutter-app&theme=tokyonight"/>
 
