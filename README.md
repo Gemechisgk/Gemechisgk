@@ -1,27 +1,73 @@
-<!-- MATRIX BACKGROUND BANNER -->
+<!-- HEADER -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff9c&height=200&section=header&text=Gemechis%20GK&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff9c&height=220&section=header&text=Gemechis%20GK&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
-# 🖥 Terminal
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=900&lines=Full+Stack+Software+Engineer;Flutter+%7C+React+%7C+Next.js;Odoo+ERP+Developer;DevOps+Engineer;Building+Scalable+Systems"/>
+</p>
+
+---
+
+# 🖥 Developer Terminal
 
 ```bash
-> whoami
+$ whoami
 Gemechis GK
 
-> role
+$ role
 Full Stack Software Engineer
 
-> stack
-Flutter / React / Node / Python
+$ stack
+Flutter React NextJS Node Python Odoo
 
-> focus
-Building scalable systems and digital products
+$ systems
+Linux DevOps Cloud Infrastructure
 
-> contact
-gemechis.gk@gmail.com
+$ mission
+Build scalable and intelligent digital platforms
 ```
+
+---
+
+# 🧠 AI Skill Radar
+
+<p align="center">
+
+<img src="https://quickchart.io/chart?c={type:'radar',data:{labels:['Frontend','Backend','Mobile','DevOps','ERP','Design'],datasets:[{label:'Skill Level',data:[90,88,85,75,92,70]}]}}">
+
+</p>
+
+---
+
+# 🛰 3D Tech Stack (Orbit Simulation)
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,flutter,reactnative,python,php,go,rust,linux,docker,kubernetes,git,figma,photoshop,vscode,laravel,mysql,postgres&perline=6"/>
+
+</p>
+
+---
+
+# 🧬 GitHub Neural Network
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/ashutosh00710/github-readme-activity-graph/master/demo.svg"/>
+
+</p>
+
+---
+
+# 🌍 Global Coding Activity Map
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gemechisgk&theme=tokyonight"/>
+
+</p>
 
 ---
 
@@ -29,9 +75,9 @@ gemechis.gk@gmail.com
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Gemechisgk&show_icons=true&theme=tokyonight"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Gemechisgk&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gemechisgk&layout=compact&theme=tokyonight"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gemechisgk&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -49,94 +95,57 @@ gemechis.gk@gmail.com
 
 </p>
 
-<p align="center">
+---
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gemechisgk&theme=tokyonight"/>
+# ⚡ Skills
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gemechisgk&theme=tokyonight"/>
+### Backend
 
-</p>
+Python • NodeJS • PHP • Go • Rust
+
+### Frontend
+
+React • NextJS • HTML • CSS • Bootstrap
+
+### Mobile
+
+Flutter • React Native
+
+### Systems
+
+Linux • Docker • DevOps • CI/CD
+
+### ERP
+
+Odoo Development
+Business Process Automation
 
 ---
 
-# 🧬 3D Contribution Calendar
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gemechisgk&theme=tokyonight"/>
-</p>
-
----
-
-# 🛠 Tech Stack
+# 🚀 Featured Projects
 
 <p align="center">
 
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge\&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript)
-![PHP](https://img.shields.io/badge/PHP-purple?style=for-the-badge\&logo=php)
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge\&logo=openjdk)
-![React](https://img.shields.io/badge/React-black?style=for-the-badge\&logo=react)
-![Flutter](https://img.shields.io/badge/Flutter-blue?style=for-the-badge\&logo=flutter)
-![Node](https://img.shields.io/badge/Node-green?style=for-the-badge\&logo=node.js)
-![Laravel](https://img.shields.io/badge/Laravel-red?style=for-the-badge\&logo=laravel)
-
-</p>
-
----
-
-# 🛰 Tech Orbit
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=flutter,react,nodejs,python,php,laravel,js,java,mysql,figma,photoshop,vscode&perline=6"/>
-</p>
-
----
-
-# ⚡Skill Bars
-
-### Programming
-
-![Python](https://img.shields.io/badge/Python-90%25-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-85%25-yellow)
-![PHP](https://img.shields.io/badge/PHP-80%25-purple)
-![Java](https://img.shields.io/badge/Java-75%25-orange)
-
-### Frameworks
-
-![Flutter](https://img.shields.io/badge/Flutter-90%25-blue)
-![React](https://img.shields.io/badge/React-85%25-cyan)
-![Laravel](https://img.shields.io/badge/Laravel-80%25-red)
-
----
-
-# 🚀 Interactive Project Cards
-
-<p align="center">
-
-<a href="https://github.com/Gemechisgk">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gemechisgk&repo=portfolio&theme=tokyonight"/>
-</a>
 
-<a href="https://github.com/Gemechisgk">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gemechisgk&repo=flutter-app&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Gemechisgk&repo=erp-system&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🎮 Developer Game
+
+<p align="center">
+
+Play the developer snake game based on my commits 👇
+
+<a href="https://platane.github.io/snk/">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
 </a>
 
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
-# 📈 Activity Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gemechisgk&theme=tokyo-night"/>
 </p>
 
 ---
@@ -144,7 +153,7 @@ gemechis.gk@gmail.com
 # 🏆 GitHub Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Gemechisgk&theme=matrix"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Gemechisgk&theme=matrix&margin-w=10"/>
 </p>
 
 ---
@@ -157,7 +166,7 @@ gemechis.gk@gmail.com
 
 ---
 
-# 🤝 Connect With Me
+# 🤝 Connect
 
 <p align="center">
 
