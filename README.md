@@ -84,7 +84,7 @@ gemechis.gk@gmail.com
 
 ---
 
-# 🛰 Animated Tech Orbit
+# 🛰 Tech Orbit
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=flutter,react,nodejs,python,php,laravel,js,java,mysql,figma,photoshop,vscode&perline=6"/>
@@ -92,7 +92,7 @@ gemechis.gk@gmail.com
 
 ---
 
-# ⚡ Animated Skill Bars
+# ⚡Skill Bars
 
 ### Programming
 
