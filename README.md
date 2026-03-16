@@ -1,83 +1,111 @@
-<!-- ================= HEADER ================= -->
-
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Gemechis%20GK&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Gemechis%20GK&fontSize=60&fontAlign=50&fontAlignY=40&color=0:0f2027,50:203a43,100:2c5364"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Software+Engineer;Flutter+%7C+React+%7C+Next.js;Odoo+ERP+Developer;DevOps+Engineer;Building+Scalable+Systems"/>
-</p>
-
----
-
-# 🧑‍🚀 Developer Profile
-
-<p align="center">
-
-<img src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" width="120"/>
-
-</p>
-
-<p align="center">
-Full Stack Engineer • System Builder • Problem Solver
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=2500&pause=1000&color=00F7FF&center=true&width=850&lines=Full+Stack+Software+Engineer;Flutter+%7C+React+%7C+NextJS;Odoo+ERP+Developer;DevOps+Engineer;Systems+Builder"/>
 </p>
 
 ---
 
-# 🖥 Developer Terminal
+# 👋 Hello World
 
-```bash
-$ whoami
-Gemechis GK
+I'm **Gemechis GK**, a **Full Stack Engineer** focused on building scalable digital systems.
 
-$ role
-Full Stack Software Engineer
+I enjoy building:
 
-$ stack
-Flutter React NextJS Node Python Odoo
+* enterprise systems
+* mobile applications
+* backend infrastructure
+* ERP integrations
+* developer tools
 
-$ systems
-Linux DevOps Cloud Infrastructure
+---
 
-$ mission
-Build scalable digital platforms
+# 🖥 Interactive Developer Terminal
+
+```
+> booting developer profile...
+
+loading modules...
+
+✔ backend engineering
+✔ mobile development
+✔ erp systems
+✔ devops
+✔ cloud infrastructure
+
+system ready
 ```
 
 ---
 
-# 📊 Developer Dashboard
+# 🧠 Developer Knowledge Tree
 
-<p align="center">
+<details>
+<summary>Programming Languages</summary>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gemechisgk&show_icons=true&theme=tokyonight"/>
+Python
+JavaScript
+PHP
+Go
+Rust
+C
+C++
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gemechisgk&layout=compact&theme=tokyonight"/>
+</details>
 
-</p>
+<details>
+<summary>Frontend Engineering</summary>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gemechisgk&theme=tokyonight"/>
-</p>
+React
+NextJS
+HTML
+CSS
+Bootstrap
+
+</details>
+
+<details>
+<summary>Mobile Development</summary>
+
+Flutter
+React Native
+
+</details>
+
+<details>
+<summary>Backend Engineering</summary>
+
+NodeJS
+Laravel
+REST APIs
+Microservices
+
+</details>
+
+<details>
+<summary>Systems & DevOps</summary>
+
+Linux
+Docker
+CI/CD
+Server Infrastructure
+
+</details>
+
+<details>
+<summary>ERP Systems</summary>
+
+Odoo Development
+Inventory systems
+Business automation
+
+</details>
 
 ---
 
-# 📈 Coding Activity Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gemechisgk&theme=tokyo-night"/>
-</p>
-
----
-
-# 🧬 Contribution Skyline
-
-<p align="center">
-<img src="https://github-contribution-stats.vercel.app/api/?username=Gemechisgk"/>
-</p>
-
----
-
-# 🛰 Tech Stack
+# ⚙ Tech Ecosystem
 
 <p align="center">
 
@@ -87,50 +115,45 @@ Build scalable digital platforms
 
 ---
 
-# ⚡ Core Skills
-
-### Backend
-
-Python • NodeJS • PHP • Go • Rust
-
-### Frontend
-
-React • NextJS • HTML • CSS • Bootstrap
-
-### Mobile
-
-Flutter • React Native
-
-### Systems
-
-Linux • Docker • DevOps • CI/CD
-
-### ERP
-
-Odoo Development
-Business Process Automation
-
----
-
-# 📊 Development Metrics
+# 📊 Developer Dashboard
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gemechisgk&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Gemechisgk&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gemechisgk&layout=compact&theme=tokyonight"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gemechisgk&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gemechisgk&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gemechisgk&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 🚀 Featured Projects
+# 📈 Coding Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gemechisgk&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🧬 GitHub Skyline
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gemechisgk&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🚀 Portfolio Projects
 
 <p align="center">
 
@@ -144,7 +167,41 @@ Business Process Automation
 
 ---
 
-# 🐍 Contribution Snake
+# 🛰 System Architecture Example
+
+```
+ Client Layer
+ ───────────────
+ React / Flutter
+
+        │
+
+ API Gateway
+ ───────────────
+ NodeJS
+
+        │
+
+ Business Logic
+ ───────────────
+ Python / Go / PHP
+
+        │
+
+ Data Layer
+ ───────────────
+ MySQL / PostgreSQL
+
+        │
+
+ Enterprise Systems
+ ───────────────
+ Odoo ERP
+```
+
+---
+
+# 🐍 Contribution Snake Game
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
@@ -152,7 +209,15 @@ Business Process Automation
 
 ---
 
-# 🏆 GitHub Achievements
+# 🎮 Developer Game
+
+You can play a coding snake game based on my contributions:
+
+https://platane.github.io/snk/
+
+---
+
+# 🏆 Achievements
 
 <p align="center">
 
@@ -162,11 +227,11 @@ Business Process Automation
 
 ---
 
-# 👀 Visitor Analytics
+# 👀 Visitors
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Gemechisgk&label=Profile%20Views&color=00F7FF&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Gemechisgk&style=for-the-badge&color=blue"/>
 
 </p>
 
@@ -174,24 +239,12 @@ Business Process Automation
 
 # 🤝 Connect
 
-<p align="center">
+Email
+**[gemechis.gk@gmail.com](mailto:gemechis.gk@gmail.com)**
 
-<a href="mailto:gemechis.gk@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-contact-red?style=for-the-badge&logo=gmail">
-</a>
-
-<a href="https://github.com/Gemechisgk">
-<img src="https://img.shields.io/badge/GitHub-follow-black?style=for-the-badge&logo=github">
-</a>
-
-</p>
+GitHub
+**github.com/Gemechisgk**
 
 ---
 
-<p align="center">
 ⭐ Built with ❤️ by **Gemechis GK**
-</p>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
-</p>
