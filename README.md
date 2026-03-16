@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=900&lines=Full+Stack+Software+Engineer;Flutter+%7C+React+%7C+Next.js;Odoo+ERP+Developer;DevOps+Engineer;Building+Scalable+Systems"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=900&lines=Full+Stack+Software+Engineer;Flutter+%7C+React+%7C+Next.js;Odoo+ERP+Developer;Building+Scalable+Systems"/>
 </p>
 
 ---
